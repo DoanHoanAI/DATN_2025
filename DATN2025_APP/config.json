@@ -1,0 +1,9 @@
+{
+    "model_path": "C:/Users/doanh/Downloads/DA_1/da_5.pt",
+    "q_table_path": "q_table.npy",
+    "control_file_path": "C:/xampp/htdocs/motor_control_web/control.txt",
+    "default_com_port": "COM4",
+    "default_camera_port": "1",
+    "default_overload_threshold": 1000,
+    "default_temp_threshold": 60
+}
